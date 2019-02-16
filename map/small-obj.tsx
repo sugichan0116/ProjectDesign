@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.2" tiledversion="1.2.1" name="small-obj" tilewidth="64" tileheight="96" tilecount="24" columns="0">
+<tileset version="1.2" tiledversion="1.2.2" name="small-obj" tilewidth="64" tileheight="96" tilecount="26" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="64" height="64" source="../dot/export/fence (3).png"/>
@@ -72,5 +72,11 @@
  </tile>
  <tile id="33">
   <image width="64" height="64" source="../dot/export/water (2).png"/>
+ </tile>
+ <tile id="34">
+  <image width="64" height="64" source="../dot/export/water-rock.png"/>
+ </tile>
+ <tile id="35">
+  <image width="64" height="64" source="../dot/export/bridge.png"/>
  </tile>
 </tileset>
