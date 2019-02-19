@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.2" tiledversion="1.2.1" name="material" tilewidth="64" tileheight="96" tilecount="21" columns="0">
+<tileset version="1.2" tiledversion="1.2.2" name="material" tilewidth="64" tileheight="96" tilecount="22" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="64" height="64" source="../dot/export/weed.png"/>
@@ -63,5 +63,8 @@
  </tile>
  <tile id="21">
   <image width="64" height="64" source="../dot/export/bridge.png"/>
+ </tile>
+ <tile id="22">
+  <image width="64" height="64" source="../dot/export/sabo.png"/>
  </tile>
 </tileset>

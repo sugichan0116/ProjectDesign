@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.2" tiledversion="1.2.2" name="grass" tilewidth="64" tileheight="64" tilecount="16" columns="4">
- <image source="../dot/export/map/grass.png" width="256" height="256"/>
+<tileset version="1.2" tiledversion="1.2.2" name="sand" tilewidth="64" tileheight="64" tilecount="16" columns="4">
+ <image source="../dot/export/map/sand.png" width="256" height="256"/>
  <terraintypes>
-  <terrain name="grass" tile="0"/>
+  <terrain name="sand" tile="0"/>
  </terraintypes>
  <tile id="1" terrain="0,0,0,0"/>
  <tile id="2" terrain=",0,0,0"/>
