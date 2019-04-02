@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.2" tiledversion="1.2.1" name="item" tilewidth="32" tileheight="32" tilecount="11" columns="0">
+<tileset version="1.2" tiledversion="1.2.1" name="item" tilewidth="32" tileheight="32" tilecount="14" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="../dot/export/item/yuri-book.png"/>
@@ -33,5 +33,14 @@
  </tile>
  <tile id="10">
   <image width="32" height="32" source="../dot/export/item/fish-dead.png"/>
+ </tile>
+ <tile id="11">
+  <image width="32" height="32" source="../dot/export/item/tea-leaf.png"/>
+ </tile>
+ <tile id="12">
+  <image width="32" height="32" source="../dot/export/item/onion.png"/>
+ </tile>
+ <tile id="13">
+  <image width="32" height="32" source="../dot/export/item/white-radish.png"/>
  </tile>
 </tileset>
